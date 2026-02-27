@@ -1,7 +1,7 @@
 # CPSC-344-Project Yelp Restaurant Browsing UX Project
 
 
-This repository contains materials from a **user-centered design project** for UBC's **CPSC 344** course (completed in Spring 2025), focused on improving the experience of searching and browsing restaurants using Yelp data. The project included **conceptual design, low- and medium-fidelity prototyping in Google Slides, cognitive walkthroughs, and usability testing**.
+This repository contains materials from a **user-centered design project** for UBC's **CPSC 344** course (completed in Spring 2025), focused on improving the experience of searching and browsing restaurants using Yelp. The project included **conceptual design, low- and medium-fidelity prototyping in Google Slides, cognitive walkthroughs, and usability testing**.
 
 
 ## Project Overview
